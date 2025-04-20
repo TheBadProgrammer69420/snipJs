@@ -1,2 +1,2 @@
-# snipJs
-This is an npm library for clipboards for functions like copy, paste, cut
+# snippyJs
+This is an npm library for clipboards for functions like copy and paste
