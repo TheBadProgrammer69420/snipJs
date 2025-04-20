@@ -9,7 +9,7 @@ This is an npm library for clipboards for functions like copy and paste.
 Instruction for installing snippyjs
 
 ```bash
-npm install snippyjs
+npm install snippyjs /n
 
 
 ## Tutorial
