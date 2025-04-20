@@ -5,6 +5,12 @@ This is an npm library for clipboards for functions like copy and paste.
 - [Installation](#installation)
 - [Tutorial](#tutorial)
 
+## Installation
+Here is the command for installing the package 
+```bash
+npm install snippyjs
+```
+
 
 
 ## Tutorial
@@ -18,8 +24,4 @@ export const App =  () =>  {
       <button onclick={() => await Copy("Hello")}>Copy</button>
   )
 }
-
-## Installation
-Here is the command for installing the package 
-```bash
-npm install snippyjs
+```
