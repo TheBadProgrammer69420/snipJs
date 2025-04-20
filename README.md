@@ -10,3 +10,16 @@ Instruction for installing snippyjs
 
 ```bash
 npm install snippyjs
+
+
+## Tutorial
+Here is an example of how our copy/paste functions should look like
+```jsx
+import {Copy} from 'snippyjs'
+
+export const App = async () =>  {
+
+  return(
+      <button onclick={await Copy("Hello")}>Copy</button>
+  )
+}
