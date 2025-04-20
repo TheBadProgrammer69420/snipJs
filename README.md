@@ -6,8 +6,7 @@ This is an npm library for clipboards for functions like copy and paste.
 - [Tutorial](#tutorial)
 
 ## Installation
-Here is the command for installing the package
-npm install snippyjs
+Here is the command for installing the package ```bash npm install snippyjs
 
 
 ## Tutorial
